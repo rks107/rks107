@@ -2,16 +2,13 @@
 
 My Name is <a href="https://rks107.github.io/rohitportfolio/"> Rohit Kumar </a>, a passionate and creative developer
 
-- 🔭  I’m currently Looking for FT Opportunity 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+🔭  I’m currently Looking for FT Opportunity 
 
 
-- 📫 How to reach me: 
 
-<div style="display: flex;">
+<h3 style="color:red;"> 📫 How to reach me: </h3>
+
+<div style="display:flex;">
     <div style="margin:30px;">
          <a href="https://rks107.github.io/rohitportfolio/">
          <img src="https://image.flaticon.com/icons/svg/876/876759.svg" height="50px" weight="50px;">

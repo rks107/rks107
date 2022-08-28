@@ -1,9 +1,9 @@
 
 ### Hi, I'm [Rohit](https://rks107.github.io/rohitportfolio) 👋
 
-👨‍💻  I'm a passionate and creative developer.
+I'm a passionate and creative developer 👨‍💻 
 
-💼  Currently, I'm working as a Software Engineer at IndiaMart.
+Currently, I'm working as a <b>Software Engineer at IndiaMart</b> 💼 
 
 <div style="border: 1px solid black">
     <h3>PROGRAMING LANGUAGE:</h3>

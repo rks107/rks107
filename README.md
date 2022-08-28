@@ -3,7 +3,7 @@
 
 👨‍💻  I'm a passionate and creative developer.
 
-💼  Currently, I'm a Software Engineer at IndiaMart.
+💼  Currently, I'm working as a Software Engineer at IndiaMart.
 
 <div style="border: 1px solid black">
     <h3>PROGRAMING LANGUAGE:</h3>

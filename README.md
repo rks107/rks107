@@ -11,6 +11,7 @@ I'm a passionate and creative developer.
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTszjiaVFVusgdG8vWy8b3K67aEtJt545LjpQ&usqp=CAU" height="150px" weight="150px;">
         <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="150px" weight="250px;">
         <img src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" height="150px" weight="250px;">
+        <img src="https://play-lh.googleusercontent.com/edQ8_8or0qX3JymcLz5jrHskKXLGjj7b7lGYuBW-oUMmK75vspumKniy6gukdOuzbcNl" height="150px" weight="250px;">
     </div>
 </div>
 

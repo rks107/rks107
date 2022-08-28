@@ -1,9 +1,9 @@
 
 ### Hi, I'm [Rohit](https://rks107.github.io/rohitportfolio) 👋
 
-I'm a passionate and creative developer.
+👨‍💻  I'm a passionate and creative developer.
 
-🔭  I’m currently Looking for FT Opportunity.
+💼  Currently, I'm a Software Engineer at IndiaMart.
 
 <div style="border: 1px solid black">
     <h3>PROGRAMING LANGUAGE:</h3>

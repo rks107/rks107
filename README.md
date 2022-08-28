@@ -27,22 +27,22 @@ I'm a passionate and creative developer.
 <div style="display:flex;">
 <!--     <div style="margin:30px;"> -->
          <a href="https://rks107.github.io/rohitportfolio/">
-         <img src="https://image.flaticon.com/icons/svg/876/876759.svg" height="50px" weight="50px;">
+         <img src="https://cdn-icons-png.flaticon.com/512/14/14573.png" height="50px" weight="50px;">
          </a>
 <!--     </div>
     <div style="margin:30px;"> -->
          <a href="https://www.linkedin.com/in/rks107/">
-         <img src="https://image.flaticon.com/icons/svg/1409/1409945.svg" height="50px" weight="50px;">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" height="50px" weight="50px;">
          </a>
 <!--     </div>
     <div style="margin:30px;"> -->
          <a href="mailto:rohit1071998@gmail.com">
-         <img src="https://image.flaticon.com/icons/svg/2965/2965306.svg" height="50px" weight="50px;">
+         <img src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png" height="50px" weight="50px;">
          </a>
 <!--     </div>
     <div style="margin:30px;"> -->
-         <a href="https://www.instagram.com/rks_107/">
-         <img src="https://image.flaticon.com/icons/svg/1409/1409946.svg" height="50px" weight="50px;">
+         <a href="https://www.instagram.com/optimistic.rohit/">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" height="50px" weight="50px;">
          </a>
 <!--     </div>   -->
 </div>
